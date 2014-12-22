@@ -38,9 +38,20 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Annales of England Containing the reignes of Henry the Eighth. Edward the Sixt. Queene Mary. Written
+
+1. 
+The Translator to the READER.
+
+1. The Tranſlators Dedication.
+
+1. The Authors Epistle Dedicatory.
+
+1. THE AVTHOVRS PREFACE TO the Reader.
+Regem dedi iratus eis.J. Cecill ſculp.portrait
 #####Back#####
-Annales of England Containing the reignes of Henry the Eighth. Edward the Sixt. Queene Mary. Written
+
+1. Errata.
+
 **Types of content**
 
   * There are 65 **verse** lines!
